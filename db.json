@@ -1,4 +1,5 @@
-[
+{
+ "posts": [
   {
     "label": "Thiên Quan Tứ Phúc",
     "volume": "Chapter 42",
@@ -26,3 +27,4 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent congue risus sit amet leo mattis, quis varius quam tempus. Aenean in feugiat tellus. Maecenas non pulvinar est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed blandit at mi at venenatis. Aliquam fringilla pulvinar magna, eu dignissim turpis auctor id. Vestibulum tempus lobortis eros, vel imperdiet erat euismod pretium. Curabitur gravida tincidunt diam, rhoncus commodo enim mattis non. Nulla molestie sapien at nisl tempus, sit amet hendrerit urna iaculis. Nullam vulputate faucibus nisi vitae pharetra. Suspendisse in enim tellus. Commodo mauris id metus volutpat, eget faucibus mi rutrum. Mauris quis libero sit amet ex convallis mollis. Pellentesque at accumsan orci, ullamcorper sagittis metus. Aliquam nisi metus, congue a lobortis auctor, faucibus sed risus. Aenean lobortis mollis justo, efficitur varius diam lacinia sit amet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean volutpat ex in justo accumsan pharetra."  
   }
 ]
+}
